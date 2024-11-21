@@ -22,10 +22,13 @@ Welcome to the **Pixel Art Classifier**! This project uses FastAI to build a mac
 
 ---
 
-## Getting Started
+## Contents
 
 ### Repository Overview
 - **`pixel.ipynb`**: Main notebook with step-by-step documentation.
 - **`export.pkl`**: Trained model file ready for deployment.
 - **`app.py`**: Python script for deployment using Gradio and Hugging Face.
 - **`README.md`**: This file!
+
+### Test the app
+https://huggingface.co/spaces/joaolrossi/minima
