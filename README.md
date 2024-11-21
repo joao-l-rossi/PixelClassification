@@ -29,8 +29,3 @@ Welcome to the **Pixel Art Classifier**! This project uses FastAI to build a mac
 - **`export.pkl`**: Trained model file ready for deployment.
 - **`app.py`**: Python script for deployment using Gradio and Hugging Face.
 - **`README.md`**: This file!
-
-### How to Use the Notebook
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/joao-l-rossi/PixelClassification.git
